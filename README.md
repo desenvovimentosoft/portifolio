@@ -8,4 +8,4 @@ O controle de tarefa sera realido pelo guit
 :package: nova funcionalidade
 :up: atualização
 :beatle: correcao de bug
-:checkered: realse
+:checkered_flag: realse
